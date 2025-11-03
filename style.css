@@ -79,4 +79,11 @@
     box-shadow: var(--shadow);
     transition: var(--transition);
 }
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 2px;
+    background-color: var(--primary-color);
+}
 
