@@ -95,5 +95,9 @@
     background: var(--primary-color);
     color: white;
 }
+.footer {
+    background: var(--secondary-color);
+    color: white;
+}
 
 
