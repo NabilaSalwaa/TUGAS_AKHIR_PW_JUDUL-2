@@ -86,4 +86,14 @@
     width: 2px;
     background-color: var(--primary-color);
 }
+.contact-item {
+    display: flex;
+    align-items: flex-start;
+}
+
+.social-links a {
+    background: var(--primary-color);
+    color: white;
+}
+
 
