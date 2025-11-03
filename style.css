@@ -70,4 +70,8 @@
     max-width: 400px;
     border-radius: 10px;
 }
+.skill-progress {
+    background-color: var(--primary-color);
+    animation: fillBar 2s ease-in-out forwards;
+}
 
