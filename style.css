@@ -74,4 +74,9 @@
     background-color: var(--primary-color);
     animation: fillBar 2s ease-in-out forwards;
 }
+.project-card {
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    transition: var(--transition);
+}
 
