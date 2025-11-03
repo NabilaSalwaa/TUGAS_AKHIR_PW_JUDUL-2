@@ -29,3 +29,15 @@
     color: var(--secondary-color);
     position: relative;
 }
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
