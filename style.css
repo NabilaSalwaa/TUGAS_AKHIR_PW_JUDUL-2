@@ -99,5 +99,12 @@
     background: var(--secondary-color);
     color: white;
 }
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: var(--primary-color);
+    border-radius: 50%;
+}
 
 
